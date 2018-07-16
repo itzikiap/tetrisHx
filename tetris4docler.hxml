@@ -1,0 +1,4 @@
+-lib msignal
+-cp src
+-js bin/tetris4docler.js
+-main Main
